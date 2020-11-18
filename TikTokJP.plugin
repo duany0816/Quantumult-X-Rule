@@ -2,7 +2,7 @@
 (?<=_region=)CN(?=&) JP 307
 (?<=&app_version=)1[6-9]..(?=.?.?&) 100. 307
 (?<=\?version_code=)1[6-9]..(?=.?.?&) 100. 307
-(?<=&mcc_mnc=)460 url 307 262
+(?<=&mcc_mnc=)4 url 307 2
 ^https://api[\w-]*?.tiktokv.com/aweme/v\d/policy/notice/? - reject
 
 [MITM]
