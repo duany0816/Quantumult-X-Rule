@@ -14,3 +14,4 @@ Store version QX1.0.5 (192) Remote script resources are unavailable, but "task" 
 Store version QX1.0.6 (212) Supports rewrite of HTTP request body, and replay of HTTP request
 
 Store version QX1.0.7 (240) Supports TLS 1.3 for TLS based proxy protocols, and new external proxy protocol trojan.
+试试
